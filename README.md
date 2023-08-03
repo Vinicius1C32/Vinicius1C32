@@ -1,6 +1,7 @@
-### boas vindas aomeu perfil 💙
+### boas vindas ao meu perfil 💙
 
-Meu nome é Vinicius
+Meu nome é _Vinicius_
 
-- estou estudando na Alura
-- estou me desenvolvendo na linguagem JavaScript
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço par minha organização e compartilhamento dos meus projetos desenvolvidos
